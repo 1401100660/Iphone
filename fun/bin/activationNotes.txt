@@ -1,0 +1,6 @@
+To initalize/init a venv in a linux environment you must do the following commnad...
+source "<Path to activate>"
+ex. 
+  source bin/activate
+
+you can cat activate to see the documentation inside it to verify the validity of running this command. 

@@ -1,0 +1,5 @@
+echo "restart: $1";
+rm $1 -r
+echo "rmsec"
+echo "" > $1
+echo "mksec"
